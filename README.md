@@ -1,11 +1,10 @@
 # Deploy Django App to Heroku
  
-This is a part of YouTube Tutorial video on How to Deploy a Django Application to Heroku.
-https://youtu.be/V2rWvStauak
+This is a step-by-step tutorial on How to Deploy a Django Application to Heroku.
 
 ## Usage
 
-* If you don't have git installed, follow this [Tutorial](https://www.atlassian.com/git/tutorials/install-git) and come back here.
+* Make sure you have git installed.
 
 * Make a copy of your project or use a seperate git branch.
 
