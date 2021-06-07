@@ -35,9 +35,8 @@ git commit -m "first commit"
 heroku login
 heroku create app_name
 git push heroku main
-heroku open
-
 heroku run python manage.py migrate
+heroku open
 ```
 ** PS: if Heroku isn't recognized as a command, please close your terminal and editor and then re-open it.
 
